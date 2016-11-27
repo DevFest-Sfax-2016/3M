@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">3M</string>
+    <string name="title_activity_home2activity">Home2activity</string>
+    <string name="title_activity_home">HomeActivity</string>
 </resources>
