@@ -26,8 +26,19 @@ dependencies {
     })
     compile 'com.android.support:appcompat-v7:24.2.1'
     compile 'com.google.firebase:firebase-auth:9.8.0'
+<<<<<<< HEAD
+=======
+    compile 'com.android.support:design:24.2.1'
+    compile 'com.google.firebase:firebase-database:9.8.0'
+>>>>>>> 2737d8d1c3f16da9bda431367f81db78ea510449
     testCompile 'junit:junit:4.12'
 }
 
 
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> 2737d8d1c3f16da9bda431367f81db78ea510449
 apply plugin: 'com.google.gms.google-services'
