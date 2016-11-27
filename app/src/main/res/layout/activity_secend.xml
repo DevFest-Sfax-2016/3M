@@ -26,7 +26,7 @@
         <ImageView
             android:onClick="goToRechContre"
             android:id="@+id/rechcontre"
-            android:src="@mipmap/choixContre"
+            android:src="@mipmap/choixcontre"
             android:layout_weight="0.3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
@@ -34,7 +34,7 @@
         <ImageView
             android:onClick="goToRechPos"
             android:id="@+id/rechposition"
-            android:src="@mipmap/choixPosition"
+            android:src="@mipmap/choixposition"
             android:layout_weight="0.3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
