@@ -2,4 +2,8 @@
     <string name="app_name">3M</string>
     <string name="title_activity_home2activity">Home2activity</string>
     <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_reservation">ReservationActivity</string>
+    <string name="title_activity_recherche_contre">RechercheContre</string>
+    <string name="title_activity_recherche_position">RecherchePosition</string>
+    <string name="title_activity_maps">Map</string>
 </resources>
