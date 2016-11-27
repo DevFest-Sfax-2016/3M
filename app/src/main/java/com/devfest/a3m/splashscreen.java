@@ -18,7 +18,7 @@ public class splashscreen extends AppCompatActivity {
                 }catch(InterruptedException e){
                     e.printStackTrace();
                 }finally{
-                    Intent intent = new Intent(getApplicationContext(),MainActivity.class);
+                    Intent intent = new Intent(getApplicationContext(),EmailPasswordActivity.class);
                     startActivity(intent);
                 }
             }
