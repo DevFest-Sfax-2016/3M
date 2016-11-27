@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.devfest.a3m" android:installLocation="preferExternal">
+    package="com.devfest.a3m"
+    android:installLocation="preferExternal">
 
     <application
         android:allowBackup="true"
@@ -21,7 +22,11 @@
             android:name=".HomeActivity"
             android:label="@string/title_activity_home"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".SecendActivity"></activity>
+        <activity android:name=".SecendActivity" />
+        <activity
+            android:name=".ReservationActivity"
+            android:label="@string/title_activity_reservation"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
